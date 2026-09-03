@@ -1,0 +1,3 @@
+The Cloud Security Audit tool automatically checks S3 bucket policies for public access.
+It utilizes Python, Boto3, and GitHub Actions to run automated compliance checks.
+If an insecure configuration is detected, an alert is sent via AWS EventBridge.
